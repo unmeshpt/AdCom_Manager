@@ -1,4 +1,4 @@
-# Adcom_Management
+# Adcom_Manager
 
 > Create public and private stories from your life
 
