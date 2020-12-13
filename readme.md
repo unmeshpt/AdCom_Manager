@@ -1,6 +1,6 @@
 # Adcom_Manager
 
-> Create public and private stories from your life
+> Complete Advertisement company management
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
